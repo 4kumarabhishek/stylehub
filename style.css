@@ -154,7 +154,7 @@ body {
 }
 
 #hero button {
-  background-image: url("/img/button.png");
+  background-image: url("img/button.png");
   background-color: transparent;
   background-size: cover;
   color: #810826;
